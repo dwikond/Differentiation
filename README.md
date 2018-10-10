@@ -1,4 +1,6 @@
-#Differentiation
+#DifferentiationCode
+by : Rio Galang J. R (17523118) & Dwiko Nugroho Dani (17523115)
+
 1.Implement Rules (11) in R as Lines 1-3 above, i.e., to return the value when x and n are given.
 
 rule11<−function(x){
